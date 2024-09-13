@@ -8,7 +8,7 @@ import org.slf4j.LoggerFactory;
 public class GreenIngots implements ModInitializer {
 	public static final String MOD_ID = "greeningots";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
-
+	logger 
 	@Override
 	public void onInitialize() {
 
